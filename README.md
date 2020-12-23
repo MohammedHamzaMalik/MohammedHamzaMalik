@@ -10,6 +10,6 @@
 - 👯 I’m looking to collaborate on cool Machine Learning Projects & Web-Development Projects!
 - 🤔 I’m looking for help with Machine Learning?
 - 💬 Ask me about Web-Development, Github
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/mohammed-hamza-malik-576a481a4/
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/mohammed-hamza-malik/
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
