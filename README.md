@@ -13,3 +13,11 @@
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/mohammed-hamza-malik/
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" height="50" width="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" width="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="50" width="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" height="50" width="50"/>
+
+---
