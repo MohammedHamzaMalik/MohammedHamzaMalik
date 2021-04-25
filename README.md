@@ -30,4 +30,4 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedHamzaMalik&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedhamzamalik&" alt="mohammedhamzamalik" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedhamzamalik&" alt="mohammedhamzamalik" /></p> -->
