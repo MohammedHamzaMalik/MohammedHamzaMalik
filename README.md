@@ -1,10 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedHamzaMalik&label=Profile%20views&color=brightgreen&style=plastic" alt="MohammedHamzaMalik" /> </p>
+
 ### Hi there 👋
 
 <!--
 **MohammedHamzaMalik/MohammedHamzaMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!--Here are some ideas to get you started:-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedHamzaMalik&label=Profile%20views&color=brightgreen&style=plastic" alt="MohammedHamzaMalik" /> </p>
 
 - 🔭 I’m currently working on contributing to G'WoC!
 - 🌱 I’m currently learning Data Science & Machine Learning.
