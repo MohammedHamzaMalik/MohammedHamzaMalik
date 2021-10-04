@@ -4,12 +4,13 @@
 **MohammedHamzaMalik/MohammedHamzaMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!--Here are some ideas to get you started:-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedHamzaMalik&label=Profile%20views&color=green&style=plastic" alt="MohammedHamzaMalik" /> </p>
 
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning AI, Machine Learning & Full Stack MERN Development
+- 🔭 I’m currently working on contributing to G'WoC!
+- 🌱 I’m currently learning Data Science & Machine Learning.
 - 👯 I’m looking to collaborate on cool Machine Learning Projects & Web-Development Projects!
 - 🤔 I’m looking for help with Machine Learning?
-- 💬 Ask me about Web-Development, Github
+- 💬 Ask me about Data Science, Web-Development, Github.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/mohammed-hamza-malik/
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
