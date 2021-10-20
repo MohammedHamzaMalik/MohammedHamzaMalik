@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedHamzaMalik&label=Profile%20views&color=brightgreen&style=plastic" alt="MohammedHamzaMalik" /> </p>
 
-### Hi there 👋
+# Hi there, Hamza here👋
 
 <!--
 **MohammedHamzaMalik/MohammedHamzaMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
