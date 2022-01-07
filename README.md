@@ -29,8 +29,6 @@
 &emsp;
 </p>
 
-<br>
-
 ---
 
 ## ⚙️ My Skills
