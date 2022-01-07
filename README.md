@@ -27,20 +27,6 @@
 <a target="_blank" href="mailto:m.h.m.i.malik@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://medium.com/@mohammedhamzamalik"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://stackoverflow.com/users/17668960/mohammed-hamza-malik"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://leetcode.com/MohammedHamza/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
-&emsp;
-<a target="_blank" href="https://www.kaggle.com/muhammedhamzamalik"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://www.hackerrank.com/MohammedHamza"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://www.hackerearth.com/@mohammedhamza2"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></img></a>
-&emsp;
-<a target="_blank" href="https://https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></img></a>
-&emsp;
 </p>
 
 <br>
@@ -133,5 +119,27 @@
 
 
 <br/>
+
+# 📺 Socials
+
+
+<a target="_blank" href="https://medium.com/@mohammedhamzamalik"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://www.kaggle.com/muhammedhamzamalik"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://leetcode.com/MohammedHamza/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
+&emsp;
+<a target="_blank" href="https://codeforces.com/profile/MohammedHamza"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://www.codechef.com/users/mohammed_hamza"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://www.hackerrank.com/MohammedHamza"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://www.hackerearth.com/@mohammedhamza2"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></img></a>
+&emsp;
+<a target="_blank" href="https://stackoverflow.com/users/17668960/mohammed-hamza-malik"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://codepen.io/MohammedHamzaMalik"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></img></a>
+&emsp;
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/mdhamzamalik?style=social) -->
