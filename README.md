@@ -27,12 +27,17 @@ if __name__ == '__main__':
     me = Hamza()
 ```
 
-- 🔭 I’m currently working on my DSA & CP skills!
-- 🌱 I’m currently learning Data Science & Machine Learning.
-- 👯 I’m looking to collaborate on cool Machine Learning Projects & Web-Development Projects!
-- 🤔 I’m looking for help with Machine Learning?
-- 💬 Ask me about Data Science, Web-Development, Github.
-- 📫 How to reach me: 🔽
+```html
+<ul>
+ <li>- 🔭 I’m currently working on my DSA & CP skills!</li>
+ <li>- 🌱 I’m currently learning Data Science & Machine Learning.</li>
+ <li>- 👯 I’m looking to collaborate on cool Machine Learning Projects & Web-Development Projects!</li>
+ <li>- 🤔 I’m looking for help with Machine Learning?</li>
+ <li>- 💬 Ask me about Data Science, Web-Development, Github.</li>
+ <li>- 📫 How to reach me: 🔽</li>
+</ul>
+```
+
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
