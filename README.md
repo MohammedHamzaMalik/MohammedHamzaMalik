@@ -9,6 +9,24 @@
 -->
 <!--Here are some ideas to get you started:-->
 
+
+```python
+class Hamza():
+    
+  def __init__(self):
+    self.name = "Mohammed Hamza Malik";
+    self.username = "MohammedHamzaMalik";
+    self.location = "Gujarat, India";
+    self.twitter = "@mdhamzamalik";
+    self.web = "https://ihamza.netlify.app/";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Hamza()
+```
+
 - 🔭 I’m currently working on my DSA & CP skills!
 - 🌱 I’m currently learning Data Science & Machine Learning.
 - 👯 I’m looking to collaborate on cool Machine Learning Projects & Web-Development Projects!
