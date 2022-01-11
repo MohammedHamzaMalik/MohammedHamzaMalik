@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedHamzaMalik&label=Profile%20views&color=brightgreen&style=plastic" alt="MohammedHamzaMalik" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedHamzaMalik&label=Profile%20views&color=brightgreen&style=plastic" alt="MohammedHamzaMalik" /> &emsp;
  <a href="https://twitter.com/mdhamzamalik/"><img src="https://img.shields.io/twitter/follow/mdhamzamalik?style=social"></a></p>
 
 # 👋
