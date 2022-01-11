@@ -16,8 +16,6 @@ class Hamza():
   def __init__(self):
     self.name = "Mohammed Hamza Malik";
     self.username = "MohammedHamzaMalik";
-    self.location = "Gujarat, India";
-    self.twitter = "@mdhamzamalik";
     self.web = "https://ihamza.netlify.app/";
   
   def __str__(self):
