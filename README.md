@@ -13,13 +13,16 @@
 ```python
 class Hamza():
     
+    
   def __init__(self):
     self.name = "Mohammed Hamza Malik";
     self.username = "MohammedHamzaMalik";
     self.web = "https://ihamza.netlify.app/";
   
+  
   def __str__(self):
     return self.name
+
 
 if __name__ == '__main__':
     me = Hamza()
