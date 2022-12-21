@@ -129,16 +129,17 @@ if __name__ == '__main__':
 <h3 align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedHamzaMalik&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi"/></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedHamzaMalik&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MohammedHamzaMalik&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=MohammedHamzaMalik&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 
 <hr>
 <br><br>
-
+<p align="center">
+  <img alt="Hamza's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MohammedHamzaMalik&theme=gruvbox&hide_border=true&area=true" /></a>
+</p>
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MohammedHamzaMalik&theme=gruvbox&hide_border=true&area=true) -->
-
+<hr>
 <br><br>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=MohammedHamzaMalik&theme=gruvbox" />
