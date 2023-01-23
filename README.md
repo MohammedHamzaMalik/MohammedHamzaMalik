@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammedHamzaMalik&label=Profile%20views&color=brightgreen&style=plastic" alt="MohammedHamzaMalik" /> &emsp;
- <a href="https://twitter.com/mdhamzamalik/"><img src="https://img.shields.io/twitter/follow/mdhamzamalik?style=social"></a></p>
+<!-- <a href="https://twitter.com/mdhamzamalik/"><img src="https://img.shields.io/twitter/follow/mdhamzamalik?style=social"></a> -->
+<a><img src="https://img.shields.io/github/stars/MohammedHamzaMalik/100-Days-of-JavaScript-Code?style=social" alt="![GitHub Repo stars]"</a>
+</p>
 
 # 👋
 
