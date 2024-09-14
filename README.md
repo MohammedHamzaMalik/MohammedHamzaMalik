@@ -5,7 +5,7 @@
 
 # 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohammed+Hamza!;A+Frontend+Web-Developer...;Data+Science+Enthusiasts...;And+a+proud+Indian!+🇮🇳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohammed+Hamza!;A+Data+Scientist...;Machine+Learning+Enthusiasts...;And+a+proud+Indian!+🇮🇳)](https://git.io/typing-svg)
 <!--
 **MohammedHamzaMalik/MohammedHamzaMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
