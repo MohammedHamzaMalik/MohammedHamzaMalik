@@ -10,19 +10,19 @@
 
 ```python
 class Hamza():
-def __init__(self):
-self.name = "Mohammed Hamza Malik"
-self.username = "MohammedHamzaMalik"
-self.role = ["Data Scientist", "ML Enthusiast", "Web Developer"]
-self.website = "[https://ihamza.netlify.app/](https://ihamza.netlify.app/)"
-self.location = "India 🇮🇳"
-
-def __str__(self):
-return f"{self.name} - {', '.join(self.role)}"
+    def __init__(self):
+        self.name = "Mohammed Hamza Malik"
+        self.username = "MohammedHamzaMalik"
+        self.role = ["Data Scientist", "ML Enthusiast", "Web Developer"]
+        self.website = "[https://ihamza.netlify.app/](https://ihamza.netlify.app/)"
+        self.location = "New York, US"
+    
+    def __str__(self):
+        return f"{self.name} - {', '.join(self.role)}"
 
 if __name__ == '__main__':
-me = Hamza()
-# print(me) # You can uncomment this if you want it to 'print' in a conceptual way
+    me = Hamza()
+    # print(me) # You can uncomment this if you want it to 'print' in a conceptual way
 ```
 
 What I'm up to:
