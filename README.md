@@ -1,6 +1,4 @@
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=MohammedHamzaMalik&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views"/>
-&emsp;
 <a href="https://github.com/MohammedHamzaMalik?tab=repositories"><img src="https://img.shields.io/github/stars/MohammedHamzaMalik?style=social" alt="GitHub Repo stars"/></a>
 </p>
 
